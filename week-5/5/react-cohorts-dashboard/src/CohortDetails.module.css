@@ -1,0 +1,35 @@
+.container {
+  padding: 20px;
+}
+
+.boxContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.box {
+  width: 250px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: white;
+}
+
+.cohortTitle {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+dt {
+  font-weight: 500;
+  text-align: left;
+}
+
+dd {
+  margin: 0 0 10px 0;
+  text-align: left;
+}
