@@ -1,0 +1,20 @@
+# Fundamentals of Generative AI
+
+## Key Insights
+
+- Learned the fundamentals of Generative AI and its real-world applications.
+- Explored ChatGPT features and practical use cases.
+- Understood prompt engineering techniques for generating better AI responses.
+- Learned how Generative AI improves productivity across different industries.
+- Gained knowledge of AI-assisted content creation, coding, research, and automation.
+
+## Skills Acquired
+
+- Generative AI
+- ChatGPT
+- Prompt Engineering
+- AI Productivity Tools
+- AI-Assisted Content Creation
+- AI-Powered Problem Solving
+- Workflow Automation
+```
